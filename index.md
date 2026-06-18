@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01893/ids/edr/browse/ncam/NLF_1893_0834999649_222ECM_N0884292NCAM14893_01_195J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01893/ids/edr/browse/ncam/NLF_1893_0834999649_222ECM_N0884292NCAM14893_01_195J01_1200.jpg)
+
+
+[@longbeachinnovationteam @nasa-jpl https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088500_088599/ESP_088562_2630_ESP_088733_2630/ESP_088562_2630_ESP_088733_2630_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088500_088599/ESP_088562_2630_ESP_088733_2630/ESP_088562_2630_ESP_088733_2630_RED.browse.png)
 
 ![https://science.nasa.gov/wp-content/uploads/2024/03/pia04304-mars.jpg @nasa-pds im looking for a transparent mars glove i found on @internetarchive](https://science.nasa.gov/wp-content/uploads/2024/03/pia04304-mars.jpg)
 @whitehouse [jpeg2000](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088500_088599/ESP_088567_2055_ESP_088145_2055/ESP_088567_2055_ESP_088145_2055_RED.JP2)
