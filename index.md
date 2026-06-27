@@ -26,6 +26,29 @@ To receive a certificate of completion, you must have attended all 3 parts and h
 
 Once you click submit, you can click "View Score" to see how you did.
 ```
+
+Accountant Latrice Fitzpatrick, the founder of Virtiserv, said she always suggests spending money in a way that can make more money. @nasa-pds @fbicyber @FEMA @commercegov 
+
+latest [wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/](https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/) 
+MArch 2022 [archive.org/web/20220302063450/https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/](https://web.archive.org/web/20220302063450/https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/)
+
+```
+Accountant Latrice Fitzpatrick, the founder of Virtiserv, said she always suggests spending money in a way that can make more money.
+
+“If you receive a $2,500 tax refund, take that and purchase a lawn mower. Cut grass as a side hustle. Charge $50 per yard and cut 50 yards every month for three months. You do that, then you just made $7,500 back on the $2,500 lawnmower,” she said.
+
+She said while it’s definitely important to save, she feels it’s more important to know how to flip or double your money.
+
+7 ways small-business owners can save on taxes in 2022
+Not everyone gets back thousands of dollars, though. Some people may get a return of a couple of hundred dollars or less. Both Taltoan and Fitzpatrick agree there are still ways to benefit.
+
+“You can pay off debt, any amount that can contribute to lowering your liabilities is beneficial,” Fitzpatrick said.
+
+“Prepare for the next year… Sit down and talk to your employer. Make sure your W-4 forms are filled out correctly, that you’re not over-claiming dependents, that you’re not under-claiming,” Taltoan said.
+
+Fitzpatrick said it’s also important to track where you spend your money throughout the year, especially if you’re a business owner.
+```
+
 @La-County-isd @cityoflosangeles  [_`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
 [ecostress.jpl.nasa.gov/team @la-county-isd @nasa-openscapes @nasa-giss](https://ecostress.jpl.nasa.gov/team)
 [https://nasagrace.unl.edu/](https://nasagrace.unl.edu/)
