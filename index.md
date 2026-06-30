@@ -17,7 +17,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 
 [bluerobot.com/web/css/fouc.asp](https://web.archive.org/web/20050226050609/http://www.bluerobot.com/web/css/fouc.asp) /// [bluerobot.com/web/layouts/default.asp](https://web.archive.org/web/20050302034028/http://bluerobot.com/web/layouts/default.asp)
-
++ latest [thenoodleincident.com/tutorials/box_lesson/boxes.html](https://www.thenoodleincident.com/tutorials/box_lesson/boxes.html)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/4d60cf00-bfff-4a73-9c05-3769fc839522" />
 
@@ -49,6 +49,14 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 </div>
 
 <img alt="image" src="https://github.com/user-attachments/assets/b3343d94-0501-430c-982c-1c1f20587b0c" />
+
+
+[thenoodleincident.com/tutorials/box_lesson/](https://www.thenoodleincident.com/tutorials/box_lesson/)
+<img   alt="image" src="https://github.com/user-attachments/assets/2c23c2fd-94e3-4c30-bf69-ee91cee6d2e9" />
+
+[thenoodleincident.com/tutorials/box_lesson/workarounds.html](https://www.thenoodleincident.com/tutorials/box_lesson/workarounds.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/f1869a22-30a1-4abe-a7c2-5f7c208bd023" />
+
 
 
 [@nasa-jpl gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872 @nasa-develop](https://gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872)
